@@ -5,6 +5,7 @@
 //  Created by 赵同学 on 2023/4/19.
 //
 
+//导入Swift UI框架
 import SwiftUI
 
 struct ContentView: View {
@@ -14,6 +15,10 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
             Text("Hello, world!")
+                .foregroundColor(.accentColor)
+            RoundedRectangle(cornerRadius: 25 )
+                .foregroundColor(.accentColor)
+                .frame(width: 300 ,height: 600)
         }
         .padding()
     }

@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+//程序起点main
 @main
 struct demo1App: App {
     var body: some Scene {
