@@ -45,6 +45,7 @@
 		251D787929EFDED500546E70 /* demo1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = demo1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		251D787D29EFDED500546E70 /* demo1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = demo1UITests.swift; sourceTree = "<group>"; };
 		251D787F29EFDED500546E70 /* demo1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = demo1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		251D788C29F00F9B00546E70 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +76,7 @@
 		251D785529EFDED200546E70 = {
 			isa = PBXGroup;
 			children = (
+				251D788C29F00F9B00546E70 /* README.md */,
 				251D786029EFDED200546E70 /* demo1 */,
 				251D787229EFDED500546E70 /* demo1Tests */,
 				251D787C29EFDED500546E70 /* demo1UITests */,
